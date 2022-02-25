@@ -16,7 +16,7 @@ const data = {
 		{
 			permanent: true,
 			source: "/discord",
-			destination: "https://draavo.xyz/discord",
+			destination: "hhttps://discord.gg/dDApgxnp98",
 		},
 		{
 			permanent: true,
@@ -24,7 +24,7 @@ const data = {
 			destination: "https://github.com/DaanGamesDG/dh-dashboard",
 		},
 		{
-			permanent: true,
+			permanent: false,
 			source: "/mod-apps",
 			destination: "https://docs.google.com/forms/d/e/1FAIpQLSePVyx5uOCYeiWThuxUaFIZZYeCd9CTQClEV49XdBnN_Tskpw/viewform",
 		}
